@@ -1,0 +1,26 @@
+# 读取每个seesion
+import pandas as pd
+import numpy as np
+import glob
+import os
+p = "/nas/naifan/MultiTurnRL/evaluation/sandbox/results/custom_runs"
+path_list = [os.path.join(p, entry) for entry in os.listdir(p) 
+ if os.path.isdir(os.path.join(p, entry))]
+
+
+file_list = [j for i in path_list  for j in glob.glob(os.path.join(i, "*.json")) ]
+import json
+import ast
+
+instance_ids = []
+history = []
+for file in file_list:
+    try:
+        with open(file, "r") as f:
+            tmp = json.load(f)
+        instance_ids.append(tmp['script_id'])
+        history.append(tmp['history'])
+    except:
+        continue
+
+data = pd.DataFrame({'instance_id': instance_ids, 'history': history})

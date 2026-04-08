@@ -1,0 +1,26 @@
+# 忽略所有 ckp 后缀的文件
+*.ckp
+
+# 忽略常见的模型权重后缀 (建议加上)
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# 忽略特定的文件夹 (比如你的数据文件夹叫 data)
+*.parquet
+*.json
+*.csv
+*.whl
+
+# 忽略 Python 编译文件和缓存
+__pycache__/
+*.pyc
+
+# 忽略日志文件夹 (如果有)
+log/
+ckp/
+checkpoints/
+models/
+*.log
+*.zip

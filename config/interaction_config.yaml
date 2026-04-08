@@ -1,0 +1,13 @@
+interaction:
+  - name: "multi_turn_rl"
+    class_name: "verl.interactions.MultiTurnRLAgent.MultiTurnRLAgent"
+    config: {
+        "base_url": "http://127.0.0.1:8000",
+        "max_turns": 15,
+        "val_turns": 1,
+        "min_turns": 8,
+        "reward_type": "distance_diff",
+        "gamma": 0.99,
+        "alpha": 9.0,
+        "exp_name": "qwen2.5_7b_max_turns_15_qwen3_235b_lr_1e-6_batch_adv_0_turn_adv_1.0"
+        }

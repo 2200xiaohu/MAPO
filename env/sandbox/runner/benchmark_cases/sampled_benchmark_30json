@@ -1,0 +1,236 @@
+{
+  "statistics": {
+    "category_distribution": {
+      "生活状况": 5,
+      "身心健康": 5,
+      "休闲娱乐": 5,
+      "观念认同": 5,
+      "人际关系": 5,
+      "生涯发展": 5
+    },
+    "difficulty_distribution": {
+      "困难": 11,
+      "中等": 10,
+      "极难": 5,
+      "较易": 4
+    },
+    "axis_distribution": {
+      "A": 10,
+      "P": 10,
+      "C": 10
+    },
+    "total_count": 30
+  },
+  "sampled_cases": [
+    {
+      "script_id": "script_282",
+      "category": "生活状况",
+      "difficulty": "困难",
+      "dominant_axis": "A",
+      "distance": 32.83
+    },
+    {
+      "script_id": "script_263",
+      "category": "身心健康",
+      "difficulty": "中等",
+      "dominant_axis": "P",
+      "distance": 27.82
+    },
+    {
+      "script_id": "script_161",
+      "category": "休闲娱乐",
+      "difficulty": "中等",
+      "dominant_axis": "C",
+      "distance": 28.39
+    },
+    {
+      "script_id": "script_304",
+      "category": "观念认同",
+      "difficulty": "中等",
+      "dominant_axis": "P",
+      "distance": 31.59
+    },
+    {
+      "script_id": "script_355",
+      "category": "观念认同",
+      "difficulty": "困难",
+      "dominant_axis": "C",
+      "distance": 34.67
+    },
+    {
+      "script_id": "script_391",
+      "category": "生活状况",
+      "difficulty": "极难",
+      "dominant_axis": "A",
+      "distance": 38.13
+    },
+    {
+      "script_id": "script_059",
+      "category": "人际关系",
+      "difficulty": "困难",
+      "dominant_axis": "C",
+      "distance": 33.56
+    },
+    {
+      "script_id": "script_095",
+      "category": "生涯发展",
+      "difficulty": "困难",
+      "dominant_axis": "P",
+      "distance": 36.03
+    },
+    {
+      "script_id": "script_081",
+      "category": "生涯发展",
+      "difficulty": "中等",
+      "dominant_axis": "C",
+      "distance": 30.77
+    },
+    {
+      "script_id": "script_269",
+      "category": "身心健康",
+      "difficulty": "较易",
+      "dominant_axis": "C",
+      "distance": 26.57
+    },
+    {
+      "script_id": "script_243",
+      "category": "休闲娱乐",
+      "difficulty": "困难",
+      "dominant_axis": "A",
+      "distance": 33.73
+    },
+    {
+      "script_id": "script_262",
+      "category": "身心健康",
+      "difficulty": "中等",
+      "dominant_axis": "P",
+      "distance": 27.82
+    },
+    {
+      "script_id": "script_042",
+      "category": "观念认同",
+      "difficulty": "中等",
+      "dominant_axis": "A",
+      "distance": 31.95
+    },
+    {
+      "script_id": "script_222",
+      "category": "生涯发展",
+      "difficulty": "困难",
+      "dominant_axis": "C",
+      "distance": 34.13
+    },
+    {
+      "script_id": "script_003",
+      "category": "休闲娱乐",
+      "difficulty": "中等",
+      "dominant_axis": "A",
+      "distance": 27.96
+    },
+    {
+      "script_id": "script_029",
+      "category": "生活状况",
+      "difficulty": "较易",
+      "dominant_axis": "C",
+      "distance": 23.85
+    },
+    {
+      "script_id": "script_238",
+      "category": "休闲娱乐",
+      "difficulty": "困难",
+      "dominant_axis": "A",
+      "distance": 35.97
+    },
+    {
+      "script_id": "script_288",
+      "category": "生活状况",
+      "difficulty": "困难",
+      "dominant_axis": "C",
+      "distance": 35.81
+    },
+    {
+      "script_id": "script_063",
+      "category": "生涯发展",
+      "difficulty": "困难",
+      "dominant_axis": "P",
+      "distance": 33.67
+    },
+    {
+      "script_id": "script_349",
+      "category": "人际关系",
+      "difficulty": "极难",
+      "dominant_axis": "P",
+      "distance": 38.44
+    },
+    {
+      "script_id": "script_215",
+      "category": "生涯发展",
+      "difficulty": "困难",
+      "dominant_axis": "C",
+      "distance": 32.34
+    },
+    {
+      "script_id": "script_363",
+      "category": "人际关系",
+      "difficulty": "极难",
+      "dominant_axis": "P",
+      "distance": 36.96
+    },
+    {
+      "script_id": "script_020",
+      "category": "生活状况",
+      "difficulty": "较易",
+      "dominant_axis": "A",
+      "distance": 21.68
+    },
+    {
+      "script_id": "script_366",
+      "category": "观念认同",
+      "difficulty": "中等",
+      "dominant_axis": "A",
+      "distance": 31.59
+    },
+    {
+      "script_id": "script_195",
+      "category": "人际关系",
+      "difficulty": "中等",
+      "dominant_axis": "P",
+      "distance": 31.76
+    },
+    {
+      "script_id": "script_128",
+      "category": "人际关系",
+      "difficulty": "困难",
+      "dominant_axis": "A",
+      "distance": 34.31
+    },
+    {
+      "script_id": "script_327",
+      "category": "观念认同",
+      "difficulty": "极难",
+      "dominant_axis": "P",
+      "distance": 36.96
+    },
+    {
+      "script_id": "script_021",
+      "category": "休闲娱乐",
+      "difficulty": "较易",
+      "dominant_axis": "C",
+      "distance": 24.78
+    },
+    {
+      "script_id": "script_011",
+      "category": "身心健康",
+      "difficulty": "极难",
+      "dominant_axis": "P",
+      "distance": 39.77
+    },
+    {
+      "script_id": "script_010",
+      "category": "身心健康",
+      "difficulty": "中等",
+      "dominant_axis": "A",
+      "distance": 31.95
+    }
+  ]
+}
